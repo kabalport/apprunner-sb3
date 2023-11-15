@@ -1,6 +1,6 @@
 package com.kabalport.apprunnersb3.review.repository;
 
-import com.kabalport.apprunnersb3.review.model.QReviewEntity;
+
 import com.kabalport.apprunnersb3.review.model.ReviewEntity;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import lombok.RequiredArgsConstructor;

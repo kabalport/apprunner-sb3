@@ -1,6 +1,6 @@
 package com.kabalport.apprunnersb3.review.repository;
 
-import com.jyujyu.review.model.TestEntity;
+import com.kabalport.apprunnersb3.review.model.TestEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

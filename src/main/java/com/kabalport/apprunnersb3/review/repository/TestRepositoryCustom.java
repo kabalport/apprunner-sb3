@@ -1,6 +1,6 @@
 package com.kabalport.apprunnersb3.review.repository;
 
-import com.jyujyu.review.model.TestEntity;
+import com.kabalport.apprunnersb3.review.model.TestEntity;
 
 import java.util.List;
 
